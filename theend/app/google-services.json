@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772517706432",
+    "project_id": "theend-f403f",
+    "storage_bucket": "theend-f403f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772517706432:android:881ed02bef415af6564b25",
+        "android_client_info": {
+          "package_name": "com.example.theend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772517706432-6ipisjdoa1v0qv60fc7uai8o5hbcnct6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpc65HuONIcjuVPBMJImcvJly31eYSFbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772517706432-6ipisjdoa1v0qv60fc7uai8o5hbcnct6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
